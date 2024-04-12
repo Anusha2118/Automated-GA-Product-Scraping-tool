@@ -37,8 +37,3 @@ This repository contains a tool designed for scraping product data from various 
 - Ankitha Ananth - PES1UG21CS090
 - Anusha MV - PES1UG21CS101
 - Bhuvan Vijay Kumar - PES1UG21CS140
-
-## License
-This project is licensed under the [insert license type here] License.
-
-For any questions or contributions, please contact [insert contact information or link here].
