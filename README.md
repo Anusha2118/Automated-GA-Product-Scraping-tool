@@ -1,4 +1,4 @@
-# Project Name: G2_Innovators
+# Project Name: Automated GA Product Scraping tool
 
 ## Overview
 This repository contains a tool designed for scraping product data from various sources, including social media platforms, news articles, and official websites of GA (Google Analytics) products. Additionally, it checks if these products are listed on G2 using the G2 API. The tool offers automation through a scheduler, allowing for periodic scraping tasks on a daily, monthly, or weekly basis.
